@@ -1,0 +1,3 @@
+ID,TYPE,DESCRIP,PRICE,COST,PCODE,supplier 
+1,Electronics,Smartphone,500,300,P1001,TechCorp 
+2,Clothing,T-Shirt,25,10,P2002,FashionInc 
